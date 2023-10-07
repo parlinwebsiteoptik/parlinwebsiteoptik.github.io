@@ -1,0 +1,28 @@
+.image-glasses{
+position:inherit;
+width:100%;
+height:auto;
+
+}
+
+.image-glasses img{
+    /* position:inherit; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height:300px;
+    }
+
+.intermezo1 img{
+    position:relative;
+    width:100%;
+}
+
+.logo{
+    width: 170px;
+    left: 15px;
+    height:auto;
+    background-size: contain;
+}
+
